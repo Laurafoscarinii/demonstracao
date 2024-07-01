@@ -1,0 +1,23 @@
+{
+  "name": "chat-api",
+  "version": "1.0.0",
+  "description": "chat api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurafoscarinii/demonstracao.git"
+  },
+  "keywords": [
+    "NODE",
+    "API"
+  ],
+  "author": "laura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurafoscarinii/demonstracao/issues"
+  },
+  "homepage": "https://github.com/Laurafoscarinii/demonstracao#readme"
+}
